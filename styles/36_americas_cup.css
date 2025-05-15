@@ -1,4 +1,4 @@
-/* Feuille de style - Site Web - americas_cup */
+/* Feuille  color: #0A6FB0; de style - Site Web - americas_cup */
 
 body   /* Style à appliquer sur l'ensemble du document */
 {
@@ -14,7 +14,7 @@ header
 h1    /* Style à appliquer sur les titres h1 */
 {
   text-align: center;
-  color: #0A6FB0;
+  color: #FFD700;
   letter-spacing: 0.5em;
 }
 h2     /* Style à appliquer sur les sous-titres h2 */
